@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>appCore.js</file>
+        <file>takePhotoIcon.png</file>
+        <file>printIcon.png</file>
+        <file>icon-ticket02.png</file>
+        <file>next01.png</file>
+    </qresource>
+</RCC>
